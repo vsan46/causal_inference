@@ -7,6 +7,8 @@
 4. [Causal Inference: A Statistical Learning Approach](https://web.stanford.edu/~swager/causal_inf_book.pdf)
 
 ## Videos
-1. 
+1. [causalcourse.com](https://www.youtube.com/watch?v=DXBPtpBhGqo&list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0)
+2. [Introduction to Causal Inference course](https://www.youtube.com/watch?v=CfzO4IEMVUk&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)
+3. [Causal research designs in economics and other social sciences](https://www.youtube.com/watch?v=tUz2yl2QEbY&list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
 
 
