@@ -12,4 +12,5 @@
 2. [Introduction to Causal Inference course](https://www.youtube.com/watch?v=CfzO4IEMVUk&list=PLoazKTcS0Rzb6bb9L508cyJ1z-U9iWkA0)
 3. [Causal research designs in economics and other social sciences](https://www.youtube.com/watch?v=tUz2yl2QEbY&list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
 
-
+## Notebook
+1. [Causal Inference - NotebookLM](https://notebooklm.google.com/notebook/ecff2b9d-46d6-4f8f-a158-f37a8c687159)
